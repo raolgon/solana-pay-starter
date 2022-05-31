@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Mineral Fields",
+    "price": "0.03",
+    "description": "Get this basic mineral fields for your base!",
+    "image_url": "https://i.imgur.com/EdCI5Qe.png",
+    "filename": "Minerals.zip",
+    "hash": "QmTSbrD7aWHKd1kHaekQF1KVYzv3UNP1t75baBmqFuNPsj"
+  },
+  {
+    "id": 2,
+    "name": "Mineral Fields",
+    "price": "0.08",
+    "description": "Get this richer mineral fields for your base!",
+    "image_url": "https://i.imgur.com/sejHtqb.png",
+    "filename": "Rich_Minerals.zip",
+    "hash": "QmYASLMYRwL9iigYQCZYt6fapJNCnDyZe5rtMySds42XZZ"
+  },
+  {
+    "id": 3,
+    "name": "Vespene Geyser",
+    "price": "0.03",
+    "description": "Get this vespene geyser for your base!",
+    "image_url": "https://i.imgur.com/qNE9jvy.png",
+    "filename": "Vespene_Geyser.zip",
+    "hash": "QmTLkHFjj2U9QvBU2dWhrdSRznK7yJBKuP7GVkbpu7R3Mi"
+  },
+  {
+    "id": 4,
+    "name": "Rich Vespene Geyser",
+    "price": "0.08",
+    "description": "Get this richer vespene geyser for your base!",
+    "image_url": "https://i.imgur.com/dWGjjUL.png",
+    "filename": "Rich_Vespene_Geyser.zip",
+    "hash": "QmdUVQeEJs2KWfFJVmZKB7a8ffZ1SgTtDHTnjAkuiSgdV3"
+  },
+  {
+    "ID": 5,
+    "name": "Zerling",
+    "price": "0.02",
+    "image_url": "https://i.ytimg.com/vi/FSHUnEFDt-E/maxresdefault.jpg",
+    "description": "Zerling",
+    "filename": "zergling.jpg",
+    "hash": "QmcUdLHhFfJAcXaYnYhuBtEZV3y279D5zQdKBMMZ72qtsZ"
+  }
+]

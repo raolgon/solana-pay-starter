@@ -8,7 +8,7 @@ export default function HeadComponent() {
       <meta name="theme-color" content="#000000" />
 
       <title>Solana Pay Store</title>
-      <meta name="title" content="Solana Pay Store" />
+      <meta name="title" content="Krupulu Sector Store" />
       <meta name="description" content="Buy items on my store using Solana Pay!" />
 
       {/* Facebook */}
